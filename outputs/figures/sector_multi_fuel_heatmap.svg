@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1130" height="548" viewBox="0 0 1130 548">
+<rect width="100%" height="100%" fill="white"/>
+<text x="565.0" y="30" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold">Sector Vulnerability Across Energy Inputs</text>
+<text x="565.0" y="52" text-anchor="middle" font-family="Arial" font-size="13" fill="#374151">Estimated gross margin change for a +10% price shock in each fuel</text>
+<text x="265.0" y="66" text-anchor="middle" font-family="Arial" font-size="12">Coal</text>
+<text x="375.0" y="66" text-anchor="middle" font-family="Arial" font-size="12">CrudeOil</text>
+<text x="485.0" y="66" text-anchor="middle" font-family="Arial" font-size="12">Diesel</text>
+<text x="595.0" y="66" text-anchor="middle" font-family="Arial" font-size="12">Electricity</text>
+<text x="705.0" y="66" text-anchor="middle" font-family="Arial" font-size="12">Gas</text>
+<text x="815.0" y="66" text-anchor="middle" font-family="Arial" font-size="12">Gasoline</text>
+<text x="925.0" y="66" text-anchor="middle" font-family="Arial" font-size="12">HeatingOil</text>
+<text x="1035.0" y="66" text-anchor="middle" font-family="Arial" font-size="12">NaturalGas</text>
+<text x="200" y="98.0" text-anchor="end" font-family="Arial" font-size="12">Energy</text>
+<rect x="210" y="75" width="110" height="38" fill="#f0c8c5" stroke="#ffffff" stroke-width="1"/>
+<text x="265.0" y="98.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.009</text>
+<rect x="320" y="75" width="110" height="38" fill="#e09790" stroke="#ffffff" stroke-width="1"/>
+<text x="375.0" y="98.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#ffffff">-0.018</text>
+<rect x="430" y="75" width="110" height="38" fill="#d88279" stroke="#ffffff" stroke-width="1"/>
+<text x="485.0" y="98.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#ffffff">-0.022</text>
+<rect x="540" y="75" width="110" height="38" fill="#c0392b" stroke="#ffffff" stroke-width="1"/>
+<text x="595.0" y="98.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#ffffff">-0.036</text>
+<rect x="650" y="75" width="110" height="38" fill="#cf675c" stroke="#ffffff" stroke-width="1"/>
+<text x="705.0" y="98.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#ffffff">-0.027</text>
+<rect x="760" y="75" width="110" height="38" fill="#de928a" stroke="#ffffff" stroke-width="1"/>
+<text x="815.0" y="98.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#ffffff">-0.019</text>
+<rect x="870" y="75" width="110" height="38" fill="#e6aaa4" stroke="#ffffff" stroke-width="1"/>
+<text x="925.0" y="98.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.014</text>
+<rect x="980" y="75" width="110" height="38" fill="#e29f99" stroke="#ffffff" stroke-width="1"/>
+<text x="1035.0" y="98.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#ffffff">-0.016</text>
+<text x="200" y="136.0" text-anchor="end" font-family="Arial" font-size="12">Communication Services</text>
+<rect x="210" y="113" width="110" height="38" fill="#fef2f2" stroke="#ffffff" stroke-width="1"/>
+<text x="265.0" y="136.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.001</text>
+<rect x="320" y="113" width="110" height="38" fill="#f5d8d5" stroke="#ffffff" stroke-width="1"/>
+<text x="375.0" y="136.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.006</text>
+<rect x="430" y="113" width="110" height="38" fill="#f2cdcb" stroke="#ffffff" stroke-width="1"/>
+<text x="485.0" y="136.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.008</text>
+<rect x="540" y="113" width="110" height="38" fill="#e19c96" stroke="#ffffff" stroke-width="1"/>
+<text x="595.0" y="136.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#ffffff">-0.017</text>
+<rect x="650" y="113" width="110" height="38" fill="#f0c9c6" stroke="#ffffff" stroke-width="1"/>
+<text x="705.0" y="136.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.008</text>
+<rect x="760" y="113" width="110" height="38" fill="#f7dcda" stroke="#ffffff" stroke-width="1"/>
+<text x="815.0" y="136.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.005</text>
+<rect x="870" y="113" width="110" height="38" fill="#f8e1df" stroke="#ffffff" stroke-width="1"/>
+<text x="925.0" y="136.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.004</text>
+<rect x="980" y="113" width="110" height="38" fill="#f8e0df" stroke="#ffffff" stroke-width="1"/>
+<text x="1035.0" y="136.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.004</text>
+<text x="200" y="174.0" text-anchor="end" font-family="Arial" font-size="12">Utilities</text>
+<rect x="210" y="151" width="110" height="38" fill="#fcecec" stroke="#ffffff" stroke-width="1"/>
+<text x="265.0" y="174.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.002</text>
+<rect x="320" y="151" width="110" height="38" fill="#f9e2e0" stroke="#ffffff" stroke-width="1"/>
+<text x="375.0" y="174.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.004</text>
+<rect x="430" y="151" width="110" height="38" fill="#f6dbd9" stroke="#ffffff" stroke-width="1"/>
+<text x="485.0" y="174.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.005</text>
+<rect x="540" y="151" width="110" height="38" fill="#fef1f1" stroke="#ffffff" stroke-width="1"/>
+<text x="595.0" y="174.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.001</text>
+<rect x="650" y="151" width="110" height="38" fill="#f4d4d2" stroke="#ffffff" stroke-width="1"/>
+<text x="705.0" y="174.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.006</text>
+<rect x="760" y="151" width="110" height="38" fill="#f8dfdd" stroke="#ffffff" stroke-width="1"/>
+<text x="815.0" y="174.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.004</text>
+<rect x="870" y="151" width="110" height="38" fill="#f9e3e2" stroke="#ffffff" stroke-width="1"/>
+<text x="925.0" y="174.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.003</text>
+<rect x="980" y="151" width="110" height="38" fill="#fbeae9" stroke="#ffffff" stroke-width="1"/>
+<text x="1035.0" y="174.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.002</text>
+<text x="200" y="212.0" text-anchor="end" font-family="Arial" font-size="12">Consumer Staples</text>
+<rect x="210" y="189" width="110" height="38" fill="#fcedec" stroke="#ffffff" stroke-width="1"/>
+<text x="265.0" y="212.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.002</text>
+<rect x="320" y="189" width="110" height="38" fill="#fdefee" stroke="#ffffff" stroke-width="1"/>
+<text x="375.0" y="212.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.001</text>
+<rect x="430" y="189" width="110" height="38" fill="#fae6e5" stroke="#ffffff" stroke-width="1"/>
+<text x="485.0" y="212.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.003</text>
+<rect x="540" y="189" width="110" height="38" fill="#fdeeee" stroke="#ffffff" stroke-width="1"/>
+<text x="595.0" y="212.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.001</text>
+<rect x="650" y="189" width="110" height="38" fill="#fae6e5" stroke="#ffffff" stroke-width="1"/>
+<text x="705.0" y="212.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.003</text>
+<rect x="760" y="189" width="110" height="38" fill="#fceceb" stroke="#ffffff" stroke-width="1"/>
+<text x="815.0" y="212.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.002</text>
+<rect x="870" y="189" width="110" height="38" fill="#fbeaea" stroke="#ffffff" stroke-width="1"/>
+<text x="925.0" y="212.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.002</text>
+<rect x="980" y="189" width="110" height="38" fill="#fae6e5" stroke="#ffffff" stroke-width="1"/>
+<text x="1035.0" y="212.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.003</text>
+<text x="200" y="250.0" text-anchor="end" font-family="Arial" font-size="12">Materials</text>
+<rect x="210" y="227" width="110" height="38" fill="#fef3f3" stroke="#ffffff" stroke-width="1"/>
+<text x="265.0" y="250.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.000</text>
+<rect x="320" y="227" width="110" height="38" fill="#fdf0f0" stroke="#ffffff" stroke-width="1"/>
+<text x="375.0" y="250.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.001</text>
+<rect x="430" y="227" width="110" height="38" fill="#fbe8e7" stroke="#ffffff" stroke-width="1"/>
+<text x="485.0" y="250.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.002</text>
+<rect x="540" y="227" width="110" height="38" fill="#fae7e6" stroke="#ffffff" stroke-width="1"/>
+<text x="595.0" y="250.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.003</text>
+<rect x="650" y="227" width="110" height="38" fill="#fcebeb" stroke="#ffffff" stroke-width="1"/>
+<text x="705.0" y="250.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.002</text>
+<rect x="760" y="227" width="110" height="38" fill="#fef1f1" stroke="#ffffff" stroke-width="1"/>
+<text x="815.0" y="250.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.001</text>
+<rect x="870" y="227" width="110" height="38" fill="#fdefee" stroke="#ffffff" stroke-width="1"/>
+<text x="925.0" y="250.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.001</text>
+<rect x="980" y="227" width="110" height="38" fill="#ebfbf0" stroke="#ffffff" stroke-width="1"/>
+<text x="1035.0" y="250.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.000</text>
+<text x="200" y="288.0" text-anchor="end" font-family="Arial" font-size="12">Industrials</text>
+<rect x="210" y="265" width="110" height="38" fill="#fef1f0" stroke="#ffffff" stroke-width="1"/>
+<text x="265.0" y="288.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.001</text>
+<rect x="320" y="265" width="110" height="38" fill="#fef1f1" stroke="#ffffff" stroke-width="1"/>
+<text x="375.0" y="288.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.001</text>
+<rect x="430" y="265" width="110" height="38" fill="#fcebeb" stroke="#ffffff" stroke-width="1"/>
+<text x="485.0" y="288.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.002</text>
+<rect x="540" y="265" width="110" height="38" fill="#29af62" stroke="#ffffff" stroke-width="1"/>
+<text x="595.0" y="288.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.014</text>
+<rect x="650" y="265" width="110" height="38" fill="#fdeeed" stroke="#ffffff" stroke-width="1"/>
+<text x="705.0" y="288.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.001</text>
+<rect x="760" y="265" width="110" height="38" fill="#fef1f1" stroke="#ffffff" stroke-width="1"/>
+<text x="815.0" y="288.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.001</text>
+<rect x="870" y="265" width="110" height="38" fill="#fdefef" stroke="#ffffff" stroke-width="1"/>
+<text x="925.0" y="288.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.001</text>
+<rect x="980" y="265" width="110" height="38" fill="#fef1f1" stroke="#ffffff" stroke-width="1"/>
+<text x="1035.0" y="288.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.001</text>
+<text x="200" y="326.0" text-anchor="end" font-family="Arial" font-size="12">Information Technology</text>
+<rect x="210" y="303" width="110" height="38" fill="#ebfbf0" stroke="#ffffff" stroke-width="1"/>
+<text x="265.0" y="326.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.000</text>
+<rect x="320" y="303" width="110" height="38" fill="#fef1f1" stroke="#ffffff" stroke-width="1"/>
+<text x="375.0" y="326.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.001</text>
+<rect x="430" y="303" width="110" height="38" fill="#fdeeee" stroke="#ffffff" stroke-width="1"/>
+<text x="485.0" y="326.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.001</text>
+<rect x="540" y="303" width="110" height="38" fill="#fbeae9" stroke="#ffffff" stroke-width="1"/>
+<text x="595.0" y="326.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.002</text>
+<rect x="650" y="303" width="110" height="38" fill="#fbeae9" stroke="#ffffff" stroke-width="1"/>
+<text x="705.0" y="326.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.002</text>
+<rect x="760" y="303" width="110" height="38" fill="#fdf0f0" stroke="#ffffff" stroke-width="1"/>
+<text x="815.0" y="326.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.001</text>
+<rect x="870" y="303" width="110" height="38" fill="#fef2f2" stroke="#ffffff" stroke-width="1"/>
+<text x="925.0" y="326.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.001</text>
+<rect x="980" y="303" width="110" height="38" fill="#eefcf3" stroke="#ffffff" stroke-width="1"/>
+<text x="1035.0" y="326.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.000</text>
+<text x="200" y="364.0" text-anchor="end" font-family="Arial" font-size="12">Health Care</text>
+<rect x="210" y="341" width="110" height="38" fill="#e2f7ea" stroke="#ffffff" stroke-width="1"/>
+<text x="265.0" y="364.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.001</text>
+<rect x="320" y="341" width="110" height="38" fill="#c8edd7" stroke="#ffffff" stroke-width="1"/>
+<text x="375.0" y="364.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.003</text>
+<rect x="430" y="341" width="110" height="38" fill="#cff0db" stroke="#ffffff" stroke-width="1"/>
+<text x="485.0" y="364.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.002</text>
+<rect x="540" y="341" width="110" height="38" fill="#fbe8e7" stroke="#ffffff" stroke-width="1"/>
+<text x="595.0" y="364.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.003</text>
+<rect x="650" y="341" width="110" height="38" fill="#b6e6c9" stroke="#ffffff" stroke-width="1"/>
+<text x="705.0" y="364.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.004</text>
+<rect x="760" y="341" width="110" height="38" fill="#c5ecd4" stroke="#ffffff" stroke-width="1"/>
+<text x="815.0" y="364.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.003</text>
+<rect x="870" y="341" width="110" height="38" fill="#d9f4e3" stroke="#ffffff" stroke-width="1"/>
+<text x="925.0" y="364.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.002</text>
+<rect x="980" y="341" width="110" height="38" fill="#dbf5e5" stroke="#ffffff" stroke-width="1"/>
+<text x="1035.0" y="364.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.001</text>
+<text x="200" y="402.0" text-anchor="end" font-family="Arial" font-size="12">Financials</text>
+<rect x="210" y="379" width="110" height="38" fill="#effdf3" stroke="#ffffff" stroke-width="1"/>
+<text x="265.0" y="402.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.000</text>
+<rect x="320" y="379" width="110" height="38" fill="#fff5f5" stroke="#ffffff" stroke-width="1"/>
+<text x="375.0" y="402.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.000</text>
+<rect x="430" y="379" width="110" height="38" fill="#fcedec" stroke="#ffffff" stroke-width="1"/>
+<text x="485.0" y="402.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.002</text>
+<rect x="540" y="379" width="110" height="38" fill="#27ae60" stroke="#ffffff" stroke-width="1"/>
+<text x="595.0" y="402.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.014</text>
+<rect x="650" y="379" width="110" height="38" fill="#fdefee" stroke="#ffffff" stroke-width="1"/>
+<text x="705.0" y="402.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.001</text>
+<rect x="760" y="379" width="110" height="38" fill="#e5f9ec" stroke="#ffffff" stroke-width="1"/>
+<text x="815.0" y="402.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.001</text>
+<rect x="870" y="379" width="110" height="38" fill="#eefcf3" stroke="#ffffff" stroke-width="1"/>
+<text x="925.0" y="402.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.000</text>
+<rect x="980" y="379" width="110" height="38" fill="#b2e4c6" stroke="#ffffff" stroke-width="1"/>
+<text x="1035.0" y="402.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.004</text>
+<text x="200" y="440.0" text-anchor="end" font-family="Arial" font-size="12">Real Estate</text>
+<rect x="210" y="417" width="110" height="38" fill="#fff4f4" stroke="#ffffff" stroke-width="1"/>
+<text x="265.0" y="440.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.000</text>
+<rect x="320" y="417" width="110" height="38" fill="#d5f2e0" stroke="#ffffff" stroke-width="1"/>
+<text x="375.0" y="440.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.002</text>
+<rect x="430" y="417" width="110" height="38" fill="#7ed0a0" stroke="#ffffff" stroke-width="1"/>
+<text x="485.0" y="440.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.008</text>
+<rect x="540" y="417" width="110" height="38" fill="#65c68e" stroke="#ffffff" stroke-width="1"/>
+<text x="595.0" y="440.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.010</text>
+<rect x="650" y="417" width="110" height="38" fill="#5ec488" stroke="#ffffff" stroke-width="1"/>
+<text x="705.0" y="440.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.010</text>
+<rect x="760" y="417" width="110" height="38" fill="#a8e1bf" stroke="#ffffff" stroke-width="1"/>
+<text x="815.0" y="440.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.005</text>
+<rect x="870" y="417" width="110" height="38" fill="#bde9cf" stroke="#ffffff" stroke-width="1"/>
+<text x="925.0" y="440.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.004</text>
+<rect x="980" y="417" width="110" height="38" fill="#fbeae9" stroke="#ffffff" stroke-width="1"/>
+<text x="1035.0" y="440.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">-0.002</text>
+<text x="200" y="478.0" text-anchor="end" font-family="Arial" font-size="12">Consumer Discretionary</text>
+<rect x="210" y="455" width="110" height="38" fill="#e1f7e9" stroke="#ffffff" stroke-width="1"/>
+<text x="265.0" y="478.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.001</text>
+<rect x="320" y="455" width="110" height="38" fill="#a8e1bf" stroke="#ffffff" stroke-width="1"/>
+<text x="375.0" y="478.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.005</text>
+<rect x="430" y="455" width="110" height="38" fill="#bae8cc" stroke="#ffffff" stroke-width="1"/>
+<text x="485.0" y="478.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.004</text>
+<rect x="540" y="455" width="110" height="38" fill="#c1ead1" stroke="#ffffff" stroke-width="1"/>
+<text x="595.0" y="478.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.003</text>
+<rect x="650" y="455" width="110" height="38" fill="#9ddcb7" stroke="#ffffff" stroke-width="1"/>
+<text x="705.0" y="478.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.006</text>
+<rect x="760" y="455" width="110" height="38" fill="#b0e4c5" stroke="#ffffff" stroke-width="1"/>
+<text x="815.0" y="478.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.005</text>
+<rect x="870" y="455" width="110" height="38" fill="#c9edd7" stroke="#ffffff" stroke-width="1"/>
+<text x="925.0" y="478.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.003</text>
+<rect x="980" y="455" width="110" height="38" fill="#c8edd7" stroke="#ffffff" stroke-width="1"/>
+<text x="1035.0" y="478.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#111827">0.003</text>
+</svg>

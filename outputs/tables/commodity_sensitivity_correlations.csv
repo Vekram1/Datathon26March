@@ -1,0 +1,89 @@
+sector,fuel,n_years,corr_margin_change_vs_price_change
+Communication Services,Coal,16,-0.07338859388548051
+Communication Services,CrudeOil,16,-0.3927349116392523
+Communication Services,Diesel,16,-0.31710657988763513
+Communication Services,Electricity,16,-0.105660179278365
+Communication Services,Gas,16,-0.31151016306153
+Communication Services,Gasoline,16,-0.30695159072033923
+Communication Services,HeatingOil,16,-0.2921217664781409
+Communication Services,NaturalGas,16,-0.29532834830131777
+Consumer Discretionary,Coal,16,0.08964429944138827
+Consumer Discretionary,CrudeOil,16,0.5147397325082889
+Consumer Discretionary,Diesel,16,0.2696023398854441
+Consumer Discretionary,Electricity,16,0.057687103399037994
+Consumer Discretionary,Gas,16,0.3629561004169443
+Consumer Discretionary,Gasoline,16,0.4145918659395632
+Consumer Discretionary,HeatingOil,16,0.3231622289377006
+Consumer Discretionary,NaturalGas,16,0.3615820526759295
+Consumer Staples,Coal,16,-0.43927699480462046
+Consumer Staples,CrudeOil,16,-0.15633355632484303
+Consumer Staples,Diesel,16,-0.2944402211676446
+Consumer Staples,Electricity,16,-0.04644233640391339
+Consumer Staples,Gas,16,-0.24241060405067505
+Consumer Staples,Gasoline,16,-0.2166910672060762
+Consumer Staples,HeatingOil,16,-0.31867680185636676
+Consumer Staples,NaturalGas,16,-0.48853327590234563
+Energy,Coal,16,-0.6277338978322676
+Energy,CrudeOil,16,-0.6934790692936643
+Energy,Diesel,16,-0.6630858577010724
+Energy,Electricity,16,-0.22327671856252218
+Energy,Gas,16,-0.6796409936725692
+Energy,Gasoline,16,-0.6952791848805243
+Energy,HeatingOil,16,-0.684005760202579
+Energy,NaturalGas,16,-0.8460671740052528
+Financials,Coal,16,-0.14637487260966695
+Financials,CrudeOil,16,-0.12943797911899568
+Financials,Diesel,16,-0.0698286552802902
+Financials,Electricity,16,0.16530730476949768
+Financials,Gas,16,-0.08692336405635308
+Financials,Gasoline,16,-0.06767419752635559
+Financials,HeatingOil,16,-0.06634838063541203
+Financials,NaturalGas,16,0.0286323459132128
+Health Care,Coal,16,0.3122523168381871
+Health Care,CrudeOil,16,0.5001908830929783
+Health Care,Diesel,16,0.34899773827555663
+Health Care,Electricity,16,-0.12965492097158532
+Health Care,Gas,16,0.5067798644768777
+Health Care,Gasoline,16,0.5249049284550104
+Health Care,HeatingOil,16,0.37424323711978724
+Health Care,NaturalGas,16,0.37228911747909926
+Industrials,Coal,16,-0.4707978175634866
+Industrials,CrudeOil,16,-0.17965035548838376
+Industrials,Diesel,16,-0.2784343031882588
+Industrials,Electricity,16,0.4120268023925039
+Industrials,Gas,16,-0.19922850066684245
+Industrials,Gasoline,16,-0.18772037221283916
+Industrials,HeatingOil,16,-0.30766167362447927
+Industrials,NaturalGas,16,-0.3217875648682631
+Information Technology,Coal,16,0.1728673937548732
+Information Technology,CrudeOil,16,-0.2612146522901128
+Information Technology,Diesel,16,-0.16615795471730904
+Information Technology,Electricity,16,-0.029541720071048175
+Information Technology,Gas,16,-0.2501865305832101
+Information Technology,Gasoline,16,-0.2498320514305213
+Information Technology,HeatingOil,16,-0.17460978982368314
+Information Technology,NaturalGas,16,0.01072841148642718
+Materials,Coal,16,-0.164596206856055
+Materials,CrudeOil,16,-0.39374430051029524
+Materials,Diesel,16,-0.3927059581452709
+Materials,Electricity,16,-0.08905983946529711
+Materials,Gas,16,-0.3273940046671905
+Materials,Gasoline,16,-0.31683017742795666
+Materials,HeatingOil,16,-0.40324181284492966
+Materials,NaturalGas,16,-0.04102032327759897
+Real Estate,Coal,15,0.05086634242692651
+Real Estate,CrudeOil,15,0.18598951417852122
+Real Estate,Diesel,15,0.2834902980888962
+Real Estate,Electricity,15,0.01329416940641077
+Real Estate,Gas,15,0.3400439706335368
+Real Estate,Gasoline,15,0.3243660516879413
+Real Estate,HeatingOil,15,0.28121613804922113
+Real Estate,NaturalGas,15,-0.08279248799239011
+Utilities,Coal,14,-0.2844749188934314
+Utilities,CrudeOil,14,-0.3853847104989035
+Utilities,Diesel,14,-0.38888997207115733
+Utilities,Electricity,14,-0.057540145529424463
+Utilities,Gas,14,-0.4117990728184545
+Utilities,Gasoline,14,-0.41790245613820975
+Utilities,HeatingOil,14,-0.42429123671015073
+Utilities,NaturalGas,14,-0.2500124009064283

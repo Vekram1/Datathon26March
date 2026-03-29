@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="680" viewBox="0 0 1120 680">
+<rect width="100%" height="100%" fill="white"/>
+<text x="560.0" y="30" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold">Margins vs Energy Prices Indexed to 2019</text>
+<line x1="85" y1="610.0" x2="1080" y2="610.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="75" y="614.0" text-anchor="end" font-family="Arial" font-size="12" fill="#374151">54.33</text>
+<line x1="85" y1="471.2" x2="1080" y2="471.2" stroke="#e5e7eb" stroke-width="1"/>
+<text x="75" y="475.2" text-anchor="end" font-family="Arial" font-size="12" fill="#374151">106.91</text>
+<line x1="85" y1="332.5" x2="1080" y2="332.5" stroke="#e5e7eb" stroke-width="1"/>
+<text x="75" y="336.5" text-anchor="end" font-family="Arial" font-size="12" fill="#374151">159.49</text>
+<line x1="85" y1="193.8" x2="1080" y2="193.8" stroke="#e5e7eb" stroke-width="1"/>
+<text x="75" y="197.8" text-anchor="end" font-family="Arial" font-size="12" fill="#374151">212.07</text>
+<line x1="85" y1="55.0" x2="1080" y2="55.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="75" y="59.0" text-anchor="end" font-family="Arial" font-size="12" fill="#374151">264.65</text>
+<line x1="85.0" y1="55" x2="85.0" y2="610" stroke="#f3f4f6" stroke-width="1"/>
+<text x="85.0" y="632" text-anchor="middle" font-family="Arial" font-size="12">2009</text>
+<line x1="209.4" y1="55" x2="209.4" y2="610" stroke="#f3f4f6" stroke-width="1"/>
+<text x="209.4" y="632" text-anchor="middle" font-family="Arial" font-size="12">2011</text>
+<line x1="333.8" y1="55" x2="333.8" y2="610" stroke="#f3f4f6" stroke-width="1"/>
+<text x="333.8" y="632" text-anchor="middle" font-family="Arial" font-size="12">2013</text>
+<line x1="458.1" y1="55" x2="458.1" y2="610" stroke="#f3f4f6" stroke-width="1"/>
+<text x="458.1" y="632" text-anchor="middle" font-family="Arial" font-size="12">2015</text>
+<line x1="582.5" y1="55" x2="582.5" y2="610" stroke="#f3f4f6" stroke-width="1"/>
+<text x="582.5" y="632" text-anchor="middle" font-family="Arial" font-size="12">2017</text>
+<line x1="706.9" y1="55" x2="706.9" y2="610" stroke="#f3f4f6" stroke-width="1"/>
+<text x="706.9" y="632" text-anchor="middle" font-family="Arial" font-size="12">2019</text>
+<line x1="831.2" y1="55" x2="831.2" y2="610" stroke="#f3f4f6" stroke-width="1"/>
+<text x="831.2" y="632" text-anchor="middle" font-family="Arial" font-size="12">2021</text>
+<line x1="955.6" y1="55" x2="955.6" y2="610" stroke="#f3f4f6" stroke-width="1"/>
+<text x="955.6" y="632" text-anchor="middle" font-family="Arial" font-size="12">2023</text>
+<line x1="1080.0" y1="55" x2="1080.0" y2="610" stroke="#f3f4f6" stroke-width="1"/>
+<text x="1080.0" y="632" text-anchor="middle" font-family="Arial" font-size="12">2025</text>
+<line x1="893.4" y1="55" x2="893.4" y2="610" stroke="#111827" stroke-dasharray="6 4" stroke-width="1.5"/>
+<text x="899.4" y="69" font-family="Arial" font-size="12" fill="#111827">2022 shock</text>
+<line x1="85" y1="610" x2="1080" y2="610" stroke="#111827" stroke-width="1.5"/>
+<line x1="85" y1="55" x2="85" y2="610" stroke="#111827" stroke-width="1.5"/>
+<text x="560.0" y="662" text-anchor="middle" font-family="Arial" font-size="14">Fiscal year</text>
+<text x="24" y="340.0" transform="rotate(-90 24 340.0)" text-anchor="middle" font-family="Arial" font-size="14">Index (2019 = 100)</text>
+<polyline fill="none" stroke="#1f4e79" stroke-width="3" points="85.0,505.2 147.2,508.7 209.4,501.0 271.6,499.1 333.8,498.5 395.9,496.8 458.1,491.3 520.3,493.2 582.5,489.1 644.7,486.6 706.9,489.5 769.1,493.3 831.2,487.7 893.4,488.0 955.6,492.5 1017.8,480.9 1080.0,472.9"/>
+<line x1="810" y1="61" x2="828" y2="61" stroke="#1f4e79" stroke-width="3"/>
+<text x="836" y="65" font-family="Arial" font-size="13">Median gross margin (2019=100)</text>
+<polyline fill="none" stroke="#e07a1f" stroke-width="3" points="85.0,467.9 147.2,385.7 209.4,314.0 271.6,317.6 333.8,300.0 395.9,321.5 458.1,527.9 520.3,553.6 582.5,517.7 644.7,452.7 706.9,489.5 769.1,571.7 831.2,438.5 893.4,314.4 955.6,393.9 1017.8,398.9 1080.0,450.2"/>
+<line x1="810" y1="83" x2="828" y2="83" stroke="#e07a1f" stroke-width="3"/>
+<text x="836" y="87" font-family="Arial" font-size="13">Crude oil price (2019=100)</text>
+<polyline fill="none" stroke="#2a9d8f" stroke-width="3" points="85.0,347.3 147.2,302.2 209.4,342.0 271.6,470.3 333.8,369.9 395.9,301.7 458.1,482.9 520.3,494.7 582.5,446.3 644.7,427.7 706.9,489.5 769.1,544.3 831.2,351.4 893.4,93.3 955.6,492.6 1017.8,527.8 1080.0,390.7"/>
+<line x1="810" y1="105" x2="828" y2="105" stroke="#2a9d8f" stroke-width="3"/>
+<text x="836" y="109" font-family="Arial" font-size="13">Natural gas price (2019=100)</text>
+</svg>

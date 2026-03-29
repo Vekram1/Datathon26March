@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="760" viewBox="0 0 1120 760">
+<rect width="100%" height="100%" fill="white"/>
+<text x="560.0" y="30" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold">Sector Sensitivity to HeatingOil Price Changes</text>
+<line x1="762.2" y1="55" x2="762.2" y2="690" stroke="#111827" stroke-width="1.5"/>
+<rect x="288.6" y="55.0" width="473.6" height="41.6" fill="#c0392b"/>
+<text x="218" y="79.8" text-anchor="end" font-family="Arial" font-size="12">Energy</text>
+<text x="280.6" y="79.8" text-anchor="end" font-family="Arial" font-size="12">-0.684</text>
+<rect x="468.5" y="112.7" width="293.8" height="41.6" fill="#c0392b"/>
+<text x="218" y="137.5" text-anchor="end" font-family="Arial" font-size="12">Utilities</text>
+<text x="460.5" y="137.5" text-anchor="end" font-family="Arial" font-size="12">-0.424</text>
+<rect x="483.0" y="170.5" width="279.2" height="41.6" fill="#c0392b"/>
+<text x="218" y="195.2" text-anchor="end" font-family="Arial" font-size="12">Materials</text>
+<text x="475.0" y="195.2" text-anchor="end" font-family="Arial" font-size="12">-0.403</text>
+<rect x="541.6" y="228.2" width="220.7" height="41.6" fill="#c0392b"/>
+<text x="218" y="253.0" text-anchor="end" font-family="Arial" font-size="12">Consumer Staples</text>
+<text x="533.6" y="253.0" text-anchor="end" font-family="Arial" font-size="12">-0.319</text>
+<rect x="549.2" y="285.9" width="213.0" height="41.6" fill="#c0392b"/>
+<text x="218" y="310.7" text-anchor="end" font-family="Arial" font-size="12">Industrials</text>
+<text x="541.2" y="310.7" text-anchor="end" font-family="Arial" font-size="12">-0.308</text>
+<rect x="560.0" y="343.6" width="202.3" height="41.6" fill="#c0392b"/>
+<text x="218" y="368.4" text-anchor="end" font-family="Arial" font-size="12">Communication Services</text>
+<text x="552.0" y="368.4" text-anchor="end" font-family="Arial" font-size="12">-0.292</text>
+<rect x="641.3" y="401.4" width="120.9" height="41.6" fill="#c0392b"/>
+<text x="218" y="426.1" text-anchor="end" font-family="Arial" font-size="12">Information Technology</text>
+<text x="633.3" y="426.1" text-anchor="end" font-family="Arial" font-size="12">-0.175</text>
+<rect x="716.3" y="459.1" width="45.9" height="41.6" fill="#c0392b"/>
+<text x="218" y="483.9" text-anchor="end" font-family="Arial" font-size="12">Financials</text>
+<text x="708.3" y="483.9" text-anchor="end" font-family="Arial" font-size="12">-0.066</text>
+<rect x="762.2" y="516.8" width="194.7" height="41.6" fill="#2a9d8f"/>
+<text x="218" y="541.6" text-anchor="end" font-family="Arial" font-size="12">Real Estate</text>
+<text x="965.0" y="541.6" text-anchor="start" font-family="Arial" font-size="12">0.281</text>
+<rect x="762.2" y="574.5" width="223.8" height="41.6" fill="#2a9d8f"/>
+<text x="218" y="599.3" text-anchor="end" font-family="Arial" font-size="12">Consumer Discretionary</text>
+<text x="994.0" y="599.3" text-anchor="start" font-family="Arial" font-size="12">0.323</text>
+<rect x="762.2" y="632.3" width="259.1" height="41.6" fill="#2a9d8f"/>
+<text x="218" y="657.1" text-anchor="end" font-family="Arial" font-size="12">Health Care</text>
+<text x="1029.4" y="657.1" text-anchor="start" font-family="Arial" font-size="12">0.374</text>
+<text x="560.0" y="742" text-anchor="middle" font-family="Arial" font-size="14">Correlation of annual margin change with annual price change</text>
+</svg>
