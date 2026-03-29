@@ -1,0 +1,488 @@
+ticker,security,is_current_constituent,first_year,last_year,n_years
+A,Agilent Technologies,True,2009,2025,17
+AAPL,Apple Inc.,True,2009,2025,17
+ABBV,AbbVie,True,2013,2025,13
+ABNB,Airbnb,True,2021,2025,5
+ABT,Abbott Laboratories,True,2009,2025,17
+ACGL,Arch Capital Group,True,2010,2025,15
+ACN,Accenture,True,2010,2025,16
+ADBE,Adobe Inc.,True,2009,2025,17
+ADI,Analog Devices,True,2009,2025,17
+ADM,Archer Daniels Midland,True,2010,2025,16
+ADP,Automatic Data Processing,True,2010,2025,16
+ADSK,Autodesk,True,2009,2026,17
+AEE,Ameren,True,2009,2025,17
+AEP,American Electric Power,True,2009,2025,17
+AES,AES Corporation,True,2009,2025,17
+AFL,Aflac,True,2009,2025,17
+AIG,American International Group,True,2009,2025,17
+AIZ,Assurant,True,2009,2025,17
+AJG,Arthur J. Gallagher & Co.,True,2010,2025,16
+AKAM,Akamai Technologies,True,2009,2025,17
+ALB,Albemarle Corporation,True,2010,2025,15
+ALGN,Align Technology,True,2010,2025,16
+ALL,Allstate,True,2009,2025,17
+ALLE,Allegion,True,2014,2025,12
+AMAT,Applied Materials,True,2009,2025,17
+AMCR,Amcor,True,2019,2025,7
+AMD,Advanced Micro Devices,True,2010,2025,16
+AME,Ametek,True,2009,2025,17
+AMGN,Amgen,True,2009,2025,17
+AMP,Ameriprise Financial,True,2009,2025,17
+AMT,American Tower,True,2009,2025,17
+AMZN,Amazon,True,2009,2025,17
+ANET,Arista Networks,True,2014,2025,12
+AON,Aon plc,True,2009,2025,17
+AOS,A. O. Smith,True,2010,2025,15
+APD,Air Products,True,2009,2025,17
+APH,Amphenol,True,2009,2025,17
+APO,Apollo Global Management,True,2022,2025,4
+APP,AppLovin,True,2021,2025,5
+APTV,Aptiv,True,2012,2025,14
+ARE,Alexandria Real Estate Equities,True,2018,2025,8
+ARES,Ares Management,True,2014,2025,12
+ATO,Atmos Energy,True,2010,2025,15
+AVB,AvalonBay Communities,True,2009,2025,17
+AVGO,Broadcom,True,2018,2025,8
+AVY,Avery Dennison,True,2010,2025,16
+AWK,American Water Works,True,2010,2025,13
+AXON,Axon Enterprise,True,2011,2025,15
+AXP,American Express,True,2010,2025,9
+AZO,AutoZone,True,2010,2025,16
+BA,Boeing,True,2009,2025,17
+BAC,Bank of America,True,2009,2025,17
+BALL,Ball Corporation,True,2010,2025,16
+BAX,Baxter International,True,2009,2025,17
+BBY,Best Buy,True,2009,2026,15
+BDX,Becton Dickinson,True,2009,2025,17
+BEN,Franklin Resources,True,2009,2025,17
+BF-B,Brown–Forman,True,2011,2025,15
+BG,Bunge Global,True,2023,2025,3
+BIIB,Biogen,True,2009,2025,17
+BK,BNY Mellon,True,2010,2025,13
+BKNG,Booking Holdings,True,2010,2025,16
+BKR,Baker Hughes,True,2017,2025,9
+BLDR,Builders FirstSource,True,2011,2025,15
+BLK,BlackRock,True,2024,2025,2
+BMY,Bristol Myers Squibb,True,2009,2025,17
+BR,Broadridge Financial Solutions,True,2011,2025,15
+BRK-B,Berkshire Hathaway,True,2009,2025,17
+BRO,Brown & Brown,True,2010,2025,16
+BSX,Boston Scientific,True,2009,2025,17
+BX,Blackstone Inc.,True,2010,2025,16
+C,Citigroup,True,2009,2025,17
+CAG,Conagra Brands,True,2010,2025,16
+CAH,Cardinal Health,True,2010,2025,16
+CARR,Carrier Global,True,2020,2025,6
+CAT,Caterpillar Inc.,True,2009,2025,17
+CB,Chubb Limited,True,2009,2025,17
+CBOE,Cboe Global Markets,True,2011,2025,15
+CBRE,CBRE Group,True,2010,2025,16
+CCI,Crown Castle,True,2009,2025,17
+CCL,Carnival,True,2009,2025,17
+CDNS,Cadence Design Systems,True,2010,2025,16
+CDW,CDW Corporation,True,2011,2025,15
+CEG,Constellation Energy,True,2022,2025,4
+CF,CF Industries,True,2009,2025,17
+CFG,Citizens Financial Group,True,2014,2025,12
+CHD,Church & Dwight,True,2010,2025,16
+CHRW,C.H. Robinson,True,2009,2025,17
+CHTR,Charter Communications,True,2012,2025,14
+CI,Cigna,True,2018,2025,8
+CIEN,Ciena,True,2010,2025,16
+CINF,Cincinnati Financial,True,2010,2025,16
+CL,Colgate-Palmolive,True,2009,2025,17
+CLX,Clorox,True,2010,2025,16
+CMCSA,Comcast,True,2009,2025,17
+CME,CME Group,True,2009,2025,17
+CMG,Chipotle Mexican Grill,True,2018,2025,8
+CMI,Cummins,True,2009,2025,17
+CMS,CMS Energy,True,2010,2025,16
+CNC,Centene Corporation,True,2010,2025,16
+CNP,CenterPoint Energy,True,2009,2025,17
+COF,Capital One,True,2010,2025,15
+COHR,Coherent Corp.,True,2011,2025,14
+COIN,Coinbase,True,2021,2025,5
+COO,Cooper Companies (The),True,2010,2025,16
+COP,ConocoPhillips,True,2009,2025,17
+COR,Cencora,True,2009,2025,17
+COST,Costco,True,2010,2025,16
+CPAY,Corpay,True,2011,2025,15
+CPB,Campbell's Company (The),True,2010,2025,16
+CPRT,Copart,True,2011,2025,15
+CPT,Camden Property Trust,True,2018,2025,8
+CRH,CRH plc,True,2023,2025,3
+CRL,Charles River Laboratories,True,2010,2025,16
+CRM,Salesforce,True,2009,2025,16
+CRWD,CrowdStrike,True,2020,2026,6
+CSCO,Cisco,True,2010,2025,16
+CSGP,CoStar Group,True,2011,2025,15
+CSX,CSX Corporation,True,2009,2025,17
+CTAS,Cintas,True,2011,2025,15
+CTRA,Coterra,True,2009,2025,17
+CTSH,Cognizant,True,2009,2025,17
+CTVA,Corteva,True,2019,2025,7
+CVNA,Carvana,True,2017,2025,9
+CVS,CVS Health,True,2009,2025,17
+CVX,Chevron Corporation,True,2009,2025,17
+D,Dominion Energy,True,2009,2025,17
+DAL,Delta Air Lines,True,2011,2025,15
+DASH,DoorDash,True,2020,2025,6
+DD,DuPont,True,2017,2025,9
+DDOG,Datadog,True,2019,2025,7
+DE,Deere & Company,True,2009,2025,17
+DECK,Deckers Brands,True,2010,2025,15
+DELL,Dell Technologies,True,2017,2026,10
+DG,Dollar General,True,2011,2025,15
+DGX,Quest Diagnostics,True,2009,2025,17
+DHI,D. R. Horton,True,2011,2025,15
+DHR,Danaher Corporation,True,2009,2025,17
+DIS,Walt Disney Company (The),True,2019,2025,7
+DLR,Digital Realty,True,2011,2025,15
+DLTR,Dollar Tree,True,2010,2025,16
+DOC,Healthpeak Properties,True,2009,2025,17
+DOV,Dover Corporation,True,2009,2025,17
+DOW,Dow Inc.,True,2019,2025,7
+DPZ,Domino's,True,2011,2025,14
+DRI,Darden Restaurants,True,2010,2025,16
+DTE,DTE Energy,True,2012,2017,6
+DUK,Duke Energy,True,2009,2025,16
+DVA,DaVita,True,2018,2025,8
+DVN,Devon Energy,True,2009,2025,17
+DXCM,Dexcom,True,2011,2025,15
+EA,Electronic Arts,True,2009,2025,16
+EBAY,eBay Inc.,True,2009,2025,17
+ECL,Ecolab,True,2009,2025,17
+ED,Consolidated Edison,True,2011,2025,15
+EFX,Equifax,True,2018,2025,8
+EG,Everest Group,True,2010,2025,16
+EIX,Edison International,True,2009,2025,17
+EL,Estée Lauder Companies (The),True,2011,2025,15
+ELV,Elevance Health,True,2009,2025,16
+EME,Emcor,True,2010,2025,16
+EMR,Emerson Electric,True,2009,2025,17
+EOG,EOG Resources,True,2009,2025,17
+EPAM,EPAM Systems,True,2012,2025,14
+EQIX,Equinix,True,2010,2025,16
+EQT,EQT Corporation,True,2018,2025,8
+ERIE,Erie Indemnity,True,2010,2025,16
+ES,Eversource Energy,True,2011,2025,15
+ETN,Eaton Corporation,True,2012,2025,14
+ETR,Entergy,True,2011,2025,10
+EVRG,Evergy,True,2018,2025,8
+EW,Edwards Lifesciences,True,2010,2025,16
+EXC,Exelon,True,2010,2025,16
+EXE,Expand Energy,True,2009,2025,17
+EXPE,Expedia Group,True,2010,2025,16
+EXR,Extra Space Storage,True,2010,2025,16
+F,Ford Motor Company,True,2009,2025,17
+FANG,Diamondback Energy,True,2018,2025,8
+FAST,Fastenal,True,2009,2025,17
+FCX,Freeport-McMoRan,True,2009,2025,16
+FDS,FactSet,True,2011,2025,15
+FDX,FedEx,True,2010,2025,16
+FE,FirstEnergy,True,2009,2025,15
+FFIV,"F5, Inc.",True,2010,2025,16
+FICO,Fair Isaac,True,2010,2025,15
+FIS,Fidelity National Information Services,True,2009,2025,17
+FISV,Fiserv,True,2009,2025,17
+FITB,Fifth Third Bancorp,True,2018,2023,6
+FIX,Comfort Systems USA,True,2011,2025,15
+FOX,Fox Corporation (Class B),True,2019,2025,7
+FRT,Federal Realty Investment Trust,True,2010,2024,15
+FSLR,First Solar,True,2009,2025,17
+FTNT,Fortinet,True,2011,2025,15
+FTV,Fortive,True,2016,2025,10
+GD,General Dynamics,True,2009,2025,17
+GDDY,GoDaddy,True,2018,2025,8
+GE,GE Aerospace,True,2009,2025,17
+GEN,Gen Digital,True,2009,2025,16
+GEV,GE Vernova,True,2024,2025,2
+GILD,Gilead Sciences,True,2009,2025,17
+GIS,General Mills,True,2010,2025,16
+GLW,Corning Inc.,True,2009,2025,17
+GM,General Motors,True,2011,2025,15
+GNRC,Generac,True,2011,2025,15
+GOOG,Alphabet Inc. (Class C),True,2015,2025,11
+GPC,Genuine Parts Company,True,2009,2025,17
+GPN,Global Payments,True,2011,2025,15
+GRMN,Garmin,True,2009,2025,17
+GWW,W. W. Grainger,True,2009,2025,17
+HAL,Halliburton,True,2009,2025,17
+HAS,Hasbro,True,2010,2025,16
+HBAN,Huntington Bancshares,True,2018,2025,8
+HCA,HCA Healthcare,True,2018,2025,8
+HD,Home Depot (The),True,2009,2025,17
+HIG,Hartford (The),True,2009,2025,17
+HII,Huntington Ingalls Industries,True,2011,2025,15
+HLT,Hilton Worldwide,True,2014,2025,12
+HOLX,Hologic,True,2009,2025,17
+HON,Honeywell,True,2009,2025,16
+HOOD,Robinhood Markets,True,2021,2025,5
+HPE,Hewlett Packard Enterprise,True,2015,2025,11
+HPQ,HP Inc.,True,2009,2025,17
+HRL,Hormel Foods,True,2010,2025,16
+HSIC,Henry Schein,True,2010,2025,16
+HST,Host Hotels & Resorts,True,2009,2025,17
+HSY,Hershey Company (The),True,2009,2025,17
+HUBB,Hubbell Incorporated,True,2010,2025,16
+HUM,Humana,True,2009,2025,17
+HWM,Howmet Aerospace,True,2009,2025,17
+IBKR,Interactive Brokers,True,2010,2025,16
+IBM,IBM,True,2009,2025,17
+ICE,Intercontinental Exchange,True,2013,2025,13
+IDXX,Idexx Laboratories,True,2010,2025,16
+IEX,IDEX Corporation,True,2010,2025,16
+IFF,International Flavors & Fragrances,True,2010,2025,16
+INCY,Incyte,True,2011,2025,15
+INTC,Intel,True,2009,2025,17
+INTU,Intuit,True,2010,2025,16
+INVH,Invitation Homes,True,2018,2025,6
+IP,International Paper,True,2009,2025,17
+IQV,IQVIA,True,2013,2025,13
+IR,Ingersoll Rand,True,2017,2025,9
+IRM,Iron Mountain,True,2018,2025,8
+ISRG,Intuitive Surgical,True,2009,2025,17
+IT,Gartner,True,2010,2025,16
+ITW,Illinois Tool Works,True,2009,2025,17
+IVZ,Invesco,True,2009,2025,17
+J,Jacobs Solutions,True,2009,2025,17
+JBHT,J.B. Hunt,True,2010,2025,16
+JBL,Jabil,True,2011,2025,15
+JCI,Johnson Controls,True,2009,2025,17
+JKHY,Jack Henry & Associates,True,2011,2025,15
+JNJ,Johnson & Johnson,True,2009,2025,17
+JPM,JPMorgan Chase,True,2009,2025,17
+KDP,Keurig Dr Pepper,True,2010,2025,16
+KEY,KeyCorp,True,2016,2025,10
+KEYS,Keysight Technologies,True,2015,2025,11
+KHC,Kraft Heinz,True,2016,2025,10
+KIM,Kimco Realty,True,2012,2025,14
+KKR,KKR & Co.,True,2018,2025,8
+KLAC,KLA Corporation,True,2011,2025,15
+KMB,Kimberly-Clark,True,2009,2025,17
+KMI,Kinder Morgan,True,2011,2025,15
+KO,Coca-Cola Company (The),True,2009,2025,17
+KR,Kroger,True,2009,2025,16
+KVUE,Kenvue,True,2023,2025,3
+L,Loews Corporation,True,2009,2025,17
+LDOS,Leidos,True,2010,2025,15
+LEN,Lennar,True,2010,2025,15
+LH,Labcorp,True,2009,2025,16
+LHX,L3Harris,True,2010,2025,16
+LII,Lennox International,True,2010,2025,16
+LIN,Linde plc,True,2018,2025,8
+LITE,Lumentum,True,2015,2025,11
+LLY,Lilly (Eli),True,2009,2025,17
+LMT,Lockheed Martin,True,2009,2025,17
+LNT,Alliant Energy,True,2010,2025,16
+LOW,Lowe's,True,2009,2025,17
+LRCX,Lam Research,True,2011,2025,15
+LULU,Lululemon Athletica,True,2010,2025,16
+LUV,Southwest Airlines,True,2009,2025,17
+LVS,Las Vegas Sands,True,2010,2025,16
+LYB,LyondellBasell,True,2013,2025,13
+LYV,Live Nation Entertainment,True,2011,2025,15
+MA,Mastercard,True,2009,2025,17
+MAA,Mid-America Apartment Communities,True,2010,2025,10
+MAR,Marriott International,True,2009,2025,17
+MAS,Masco,True,2009,2025,17
+MCD,McDonald's,True,2009,2025,17
+MCHP,Microchip Technology,True,2009,2025,16
+MCK,McKesson Corporation,True,2009,2025,16
+MCO,Moody's Corporation,True,2009,2025,17
+MDLZ,Mondelez International,True,2009,2025,17
+MDT,Medtronic,True,2015,2025,11
+MET,MetLife,True,2009,2025,17
+META,Meta Platforms,True,2012,2025,14
+MGM,MGM Resorts,True,2010,2025,16
+MKC,McCormick & Company,True,2010,2025,16
+MLM,Martin Marietta Materials,True,2010,2025,16
+MMM,3M,True,2009,2025,17
+MNST,Monster Beverage,True,2010,2025,16
+MO,Altria,True,2009,2025,17
+MOS,Mosaic Company (The),True,2011,2025,15
+MPC,Marathon Petroleum,True,2011,2025,13
+MPWR,Monolithic Power Systems,True,2011,2025,15
+MRK,Merck & Co.,True,2009,2025,17
+MRNA,Moderna,True,2018,2025,8
+MRSH,Marsh McLennan,True,2018,2025,8
+MS,Morgan Stanley,True,2009,2014,6
+MSCI,MSCI Inc.,True,2010,2025,16
+MSFT,Microsoft,True,2010,2025,16
+MSI,Motorola Solutions,True,2009,2025,17
+MTB,M&T Bank,True,2013,2025,13
+MTD,Mettler Toledo,True,2010,2025,16
+MU,Micron Technology,True,2011,2025,15
+NCLH,Norwegian Cruise Line Holdings,True,2013,2025,13
+NDAQ,"Nasdaq, Inc.",True,2010,2025,16
+NDSN,Nordson Corporation,True,2010,2025,16
+NEE,NextEra Energy,True,2009,2025,12
+NEM,Newmont,True,2014,2025,11
+NFLX,Netflix,True,2009,2025,17
+NI,NiSource,True,2010,2025,16
+NKE,"Nike, Inc.",True,2010,2025,16
+NOC,Northrop Grumman,True,2009,2025,17
+NOW,ServiceNow,True,2012,2025,14
+NRG,NRG Energy,True,2009,2025,17
+NSC,Norfolk Southern,True,2009,2025,17
+NTAP,NetApp,True,2011,2025,15
+NTRS,Northern Trust,True,2010,2025,16
+NUE,Nucor,True,2009,2025,17
+NVDA,Nvidia,True,2010,2026,16
+NVR,"NVR, Inc.",True,2011,2025,15
+NWS,News Corp (Class B),True,2014,2025,12
+NXPI,NXP Semiconductors,True,2011,2025,15
+O,Realty Income,True,2010,2025,10
+ODFL,Old Dominion,True,2018,2025,8
+OKE,Oneok,True,2009,2025,17
+OMC,Omnicom Group,True,2009,2025,17
+ON,ON Semiconductor,True,2010,2025,16
+ORCL,Oracle Corporation,True,2010,2025,16
+ORLY,O’Reilly Automotive,True,2010,2025,16
+OTIS,Otis Worldwide,True,2020,2025,6
+OXY,Occidental Petroleum,True,2009,2025,17
+PANW,Palo Alto Networks,True,2013,2025,13
+PAYX,Paychex,True,2010,2025,16
+PCAR,Paccar,True,2010,2025,16
+PCG,PG&E Corporation,True,2009,2025,17
+PEG,Public Service Enterprise Group,True,2009,2025,17
+PEP,PepsiCo,True,2009,2025,17
+PFE,Pfizer,True,2009,2025,17
+PFG,Principal Financial Group,True,2009,2025,17
+PG,Procter & Gamble,True,2010,2025,16
+PGR,Progressive Corporation,True,2009,2025,17
+PH,Parker Hannifin,True,2010,2025,16
+PHM,PulteGroup,True,2010,2025,16
+PKG,Packaging Corporation of America,True,2010,2025,16
+PLD,Prologis,True,2018,2025,8
+PLTR,Palantir Technologies,True,2020,2025,6
+PM,Philip Morris International,True,2009,2025,17
+PNC,PNC Financial Services,True,2009,2025,17
+PNR,Pentair,True,2010,2025,16
+PNW,Pinnacle West Capital,True,2010,2025,16
+PODD,Insulet Corporation,True,2011,2025,15
+POOL,Pool Corporation,True,2010,2025,16
+PPG,PPG Industries,True,2009,2025,17
+PPL,PPL Corporation,True,2011,2025,11
+PRU,Prudential Financial,True,2009,2025,17
+PSA,Public Storage,True,2009,2025,17
+PSKY,Paramount Skydance Corporation,True,2025,2025,1
+PSX,Phillips 66,True,2012,2025,14
+PTC,PTC Inc.,True,2010,2025,16
+PWR,Quanta Services,True,2009,2025,17
+PYPL,PayPal,True,2015,2025,11
+Q,Qnity Electronics,True,2025,2025,1
+QCOM,Qualcomm,True,2009,2025,17
+RCL,Royal Caribbean Group,True,2010,2025,15
+REG,Regency Centers,True,2019,2025,7
+REGN,Regeneron Pharmaceuticals,True,2010,2025,16
+RF,Regions Financial Corporation,True,2018,2021,4
+RJF,Raymond James Financial,True,2010,2025,16
+RL,Ralph Lauren Corporation,True,2010,2025,15
+RMD,ResMed,True,2011,2025,15
+ROK,Rockwell Automation,True,2009,2025,17
+ROL,"Rollins, Inc.",True,2018,2025,8
+ROP,Roper Technologies,True,2009,2025,17
+ROST,Ross Stores,True,2010,2024,15
+RSG,Republic Services,True,2009,2025,16
+RTX,RTX Corporation,True,2009,2025,17
+RVTY,Revvity,True,2010,2025,16
+SATS,EchoStar,True,2010,2025,16
+SBAC,SBA Communications,True,2010,2025,16
+SBUX,Starbucks,True,2009,2025,17
+SCHW,Charles Schwab Corporation,True,2009,2025,17
+SHW,Sherwin-Williams,True,2009,2025,17
+SJM,J.M. Smucker Company (The),True,2011,2025,15
+SLB,Schlumberger,True,2009,2025,17
+SMCI,Supermicro,True,2012,2025,13
+SNA,Snap-on,True,2010,2025,16
+SNDK,Sandisk,True,2025,2025,1
+SNPS,Synopsys,True,2010,2025,16
+SO,Southern Company,True,2009,2025,17
+SPG,Simon Property Group,True,2009,2025,17
+SPGI,S&P Global,True,2009,2025,16
+SRE,Sempra,True,2012,2025,14
+STE,Steris,True,2019,2025,7
+STLD,Steel Dynamics,True,2009,2025,17
+STT,State Street Corporation,True,2009,2025,17
+STX,Seagate Technology,True,2011,2027,15
+STZ,Constellation Brands,True,2010,2025,14
+SW,Smurfit Westrock,True,2024,2025,2
+SWK,Stanley Black & Decker,True,2010,2025,15
+SWKS,Skyworks Solutions,True,2010,2025,16
+SYK,Stryker Corporation,True,2009,2025,17
+SYY,Sysco,True,2010,2025,16
+T,AT&T,True,2009,2025,17
+TAP,Molson Coors Beverage Company,True,2009,2025,17
+TDG,TransDigm Group,True,2010,2025,16
+TDY,Teledyne Technologies,True,2010,2025,16
+TECH,Bio-Techne,True,2011,2025,15
+TEL,TE Connectivity,True,2009,2025,17
+TER,Teradyne,True,2010,2025,16
+TGT,Target Corporation,True,2009,2025,17
+TJX,TJX Companies,True,2009,2025,16
+TKO,TKO Group Holdings,True,2023,2025,3
+TMO,Thermo Fisher Scientific,True,2009,2025,17
+TMUS,T-Mobile US,True,2010,2025,16
+TPL,Texas Pacific Land Corporation,True,2020,2025,6
+TPR,"Tapestry, Inc.",True,2010,2025,16
+TRGP,Targa Resources,True,2012,2025,13
+TRMB,Trimble Inc.,True,2010,2025,16
+TRV,Travelers Companies (The),True,2009,2025,17
+TSCO,Tractor Supply,True,2010,2025,16
+TSLA,"Tesla, Inc.",True,2011,2025,15
+TSN,Tyson Foods,True,2010,2025,16
+TT,Trane Technologies,True,2009,2025,17
+TTD,Trade Desk (The),True,2018,2025,8
+TTWO,Take-Two Interactive,True,2010,2025,15
+TXN,Texas Instruments,True,2009,2025,17
+TXT,Textron,True,2010,2025,16
+TYL,Tyler Technologies,True,2011,2025,15
+UAL,United Airlines Holdings,True,2010,2025,16
+UBER,Uber,True,2019,2025,7
+UDR,"UDR, Inc.",True,2010,2025,16
+UHS,Universal Health Services,True,2011,2025,15
+ULTA,Ulta Beauty,True,2011,2025,14
+UNH,UnitedHealth Group,True,2009,2025,17
+UNP,Union Pacific Corporation,True,2009,2025,17
+UPS,United Parcel Service,True,2009,2025,17
+URI,United Rentals,True,2011,2025,15
+USB,U.S. Bancorp,True,2013,2025,9
+V,Visa Inc.,True,2009,2025,17
+VICI,Vici Properties,True,2017,2025,9
+VLO,Valero Energy,True,2017,2025,9
+VLTO,Veralto,True,2023,2025,3
+VMC,Vulcan Materials Company,True,2009,2025,17
+VRSK,Verisk Analytics,True,2018,2025,8
+VRSN,Verisign,True,2009,2025,17
+VRTX,Vertex Pharmaceuticals,True,2010,2025,16
+VST,Vistra Corp.,True,2018,2025,8
+VTR,Ventas,True,2009,2025,17
+VTRS,Viatris,True,2019,2025,7
+VZ,Verizon,True,2009,2025,17
+WAB,Wabtec,True,2010,2025,16
+WAT,Waters Corporation,True,2009,2025,17
+WBD,Warner Bros. Discovery,True,2009,2025,17
+WDAY,"Workday, Inc.",True,2012,2026,14
+WDC,Western Digital,True,2010,2025,16
+WEC,WEC Energy Group,True,2013,2025,13
+WELL,Welltower,True,2010,2025,16
+WFC,Wells Fargo,True,2017,2019,3
+WM,Waste Management,True,2009,2025,17
+WMB,Williams Companies,True,2009,2025,17
+WMT,Walmart,True,2009,2026,17
+WRB,W. R. Berkley Corporation,True,2010,2025,14
+WSM,"Williams-Sonoma, Inc.",True,2010,2025,15
+WST,West Pharmaceutical Services,True,2010,2025,16
+WTW,Willis Towers Watson,True,2010,2025,14
+WY,Weyerhaeuser,True,2009,2025,17
+WYNN,Wynn Resorts,True,2010,2025,16
+XEL,Xcel Energy,True,2009,2018,10
+XOM,ExxonMobil,True,2011,2025,15
+XYL,Xylem Inc.,True,2011,2025,15
+XYZ,"Block, Inc.",True,2016,2025,10
+YUM,Yum! Brands,True,2009,2025,16
+ZBH,Zimmer Biomet,True,2009,2025,17
+ZBRA,Zebra Technologies,True,2010,2025,16
+ZTS,Zoetis,True,2013,2025,13

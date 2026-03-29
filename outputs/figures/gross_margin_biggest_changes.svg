@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700">
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.0" y="28" text-anchor="middle" font-family="Arial" font-size="22" font-weight="bold">Largest Gross Margin Changes Since First Observed Year</text>
+<line x1="259.1" y1="50" x2="259.1" y2="640" stroke="#111827" stroke-width="1.5"/>
+<rect x="233.8" y="50.0" width="25.3" height="22.1" fill="#F28E2B"/>
+<text x="170" y="65.1" text-anchor="end" font-family="Arial" font-size="12">HPQ</text>
+<text x="227.8" y="65.1" text-anchor="end" font-family="Arial" font-size="12">-0.30</text>
+<rect x="240.7" y="79.5" width="18.4" height="22.1" fill="#F28E2B"/>
+<text x="170" y="94.6" text-anchor="end" font-family="Arial" font-size="12">BAX</text>
+<text x="234.7" y="94.6" text-anchor="end" font-family="Arial" font-size="12">-0.22</text>
+<rect x="241.5" y="109.0" width="17.6" height="22.1" fill="#F28E2B"/>
+<text x="170" y="124.1" text-anchor="end" font-family="Arial" font-size="12">INTC</text>
+<text x="235.5" y="124.1" text-anchor="end" font-family="Arial" font-size="12">-0.21</text>
+<rect x="242.6" y="138.5" width="16.5" height="22.1" fill="#F28E2B"/>
+<text x="170" y="153.6" text-anchor="end" font-family="Arial" font-size="12">HOLX</text>
+<text x="236.6" y="153.6" text-anchor="end" font-family="Arial" font-size="12">-0.20</text>
+<rect x="242.6" y="168.0" width="16.5" height="22.1" fill="#F28E2B"/>
+<text x="170" y="183.1" text-anchor="end" font-family="Arial" font-size="12">JCI</text>
+<text x="236.6" y="183.1" text-anchor="end" font-family="Arial" font-size="12">-0.20</text>
+<rect x="243.5" y="197.5" width="15.6" height="22.1" fill="#F28E2B"/>
+<text x="170" y="212.6" text-anchor="end" font-family="Arial" font-size="12">ALB</text>
+<text x="237.5" y="212.6" text-anchor="end" font-family="Arial" font-size="12">-0.19</text>
+<rect x="246.0" y="227.0" width="13.1" height="22.1" fill="#F28E2B"/>
+<text x="170" y="242.1" text-anchor="end" font-family="Arial" font-size="12">BIIB</text>
+<text x="240.0" y="242.1" text-anchor="end" font-family="Arial" font-size="12">-0.16</text>
+<rect x="247.3" y="256.5" width="11.8" height="22.1" fill="#F28E2B"/>
+<text x="170" y="271.6" text-anchor="end" font-family="Arial" font-size="12">QCOM</text>
+<text x="241.3" y="271.6" text-anchor="end" font-family="Arial" font-size="12">-0.14</text>
+<rect x="248.0" y="286.0" width="11.1" height="22.1" fill="#F28E2B"/>
+<text x="170" y="301.1" text-anchor="end" font-family="Arial" font-size="12">LH</text>
+<text x="242.0" y="301.1" text-anchor="end" font-family="Arial" font-size="12">-0.13</text>
+<rect x="248.3" y="315.5" width="10.8" height="22.1" fill="#F28E2B"/>
+<text x="170" y="330.6" text-anchor="end" font-family="Arial" font-size="12">TECH</text>
+<text x="242.3" y="330.6" text-anchor="end" font-family="Arial" font-size="12">-0.13</text>
+<rect x="259.1" y="345.0" width="647.1" height="22.1" fill="#4E79A7"/>
+<text x="170" y="360.1" text-anchor="end" font-family="Arial" font-size="12">SBAC</text>
+<text x="912.2" y="360.1" text-anchor="start" font-family="Arial" font-size="12">7.69</text>
+<rect x="259.1" y="374.5" width="111.0" height="22.1" fill="#4E79A7"/>
+<text x="170" y="389.6" text-anchor="end" font-family="Arial" font-size="12">URI</text>
+<text x="376.1" y="389.6" text-anchor="start" font-family="Arial" font-size="12">1.32</text>
+<rect x="259.1" y="404.0" width="36.2" height="22.1" fill="#4E79A7"/>
+<text x="170" y="419.1" text-anchor="end" font-family="Arial" font-size="12">YUM</text>
+<text x="301.3" y="419.1" text-anchor="start" font-family="Arial" font-size="12">0.43</text>
+<rect x="259.1" y="433.5" width="34.8" height="22.1" fill="#4E79A7"/>
+<text x="170" y="448.6" text-anchor="end" font-family="Arial" font-size="12">PM</text>
+<text x="299.9" y="448.6" text-anchor="start" font-family="Arial" font-size="12">0.41</text>
+<rect x="259.1" y="463.0" width="29.6" height="22.1" fill="#4E79A7"/>
+<text x="170" y="478.1" text-anchor="end" font-family="Arial" font-size="12">NVDA</text>
+<text x="294.8" y="478.1" text-anchor="start" font-family="Arial" font-size="12">0.35</text>
+<rect x="259.1" y="492.5" width="25.6" height="22.1" fill="#4E79A7"/>
+<text x="170" y="507.6" text-anchor="end" font-family="Arial" font-size="12">EA</text>
+<text x="290.7" y="507.6" text-anchor="start" font-family="Arial" font-size="12">0.30</text>
+<rect x="259.1" y="522.0" width="23.4" height="22.1" fill="#4E79A7"/>
+<text x="170" y="537.1" text-anchor="end" font-family="Arial" font-size="12">PODD</text>
+<text x="288.5" y="537.1" text-anchor="start" font-family="Arial" font-size="12">0.28</text>
+<rect x="259.1" y="551.5" width="23.3" height="22.1" fill="#4E79A7"/>
+<text x="170" y="566.6" text-anchor="end" font-family="Arial" font-size="12">AMZN</text>
+<text x="288.4" y="566.6" text-anchor="start" font-family="Arial" font-size="12">0.28</text>
+<rect x="259.1" y="581.0" width="21.0" height="22.1" fill="#4E79A7"/>
+<text x="170" y="596.1" text-anchor="end" font-family="Arial" font-size="12">MO</text>
+<text x="286.1" y="596.1" text-anchor="start" font-family="Arial" font-size="12">0.25</text>
+<rect x="259.1" y="610.5" width="20.5" height="22.1" fill="#4E79A7"/>
+<text x="170" y="625.6" text-anchor="end" font-family="Arial" font-size="12">CVS</text>
+<text x="285.6" y="625.6" text-anchor="start" font-family="Arial" font-size="12">0.24</text>
+<text x="500.0" y="685" text-anchor="middle" font-family="Arial" font-size="14">Change in gross profit margin</text>
+</svg>
