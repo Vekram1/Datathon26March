@@ -2,37 +2,37 @@
 <rect width="100%" height="100%" fill="white"/>
 <text x="560.0" y="30" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold">Sector Sensitivity to Gasoline Price Changes</text>
 <line x1="706.2" y1="55" x2="706.2" y2="690" stroke="#111827" stroke-width="1.5"/>
-<rect x="288.6" y="55.0" width="417.5" height="41.6" fill="#c0392b"/>
+<rect x="288.6" y="55.0" width="417.5" height="41.6" fill="#e07a1f"/>
 <text x="218" y="79.8" text-anchor="end" font-family="Arial" font-size="12">Energy</text>
 <text x="280.6" y="79.8" text-anchor="end" font-family="Arial" font-size="12">-0.695</text>
-<rect x="455.2" y="112.7" width="251.0" height="41.6" fill="#c0392b"/>
+<rect x="455.2" y="112.7" width="251.0" height="41.6" fill="#e07a1f"/>
 <text x="218" y="137.5" text-anchor="end" font-family="Arial" font-size="12">Utilities</text>
 <text x="447.2" y="137.5" text-anchor="end" font-family="Arial" font-size="12">-0.418</text>
-<rect x="515.9" y="170.5" width="190.3" height="41.6" fill="#c0392b"/>
+<rect x="515.9" y="170.5" width="190.3" height="41.6" fill="#e07a1f"/>
 <text x="218" y="195.2" text-anchor="end" font-family="Arial" font-size="12">Materials</text>
 <text x="507.9" y="195.2" text-anchor="end" font-family="Arial" font-size="12">-0.317</text>
-<rect x="521.8" y="228.2" width="184.3" height="41.6" fill="#c0392b"/>
+<rect x="521.8" y="228.2" width="184.3" height="41.6" fill="#e07a1f"/>
 <text x="218" y="253.0" text-anchor="end" font-family="Arial" font-size="12">Communication Services</text>
 <text x="513.8" y="253.0" text-anchor="end" font-family="Arial" font-size="12">-0.307</text>
-<rect x="556.1" y="285.9" width="150.0" height="41.6" fill="#c0392b"/>
+<rect x="556.1" y="285.9" width="150.0" height="41.6" fill="#e07a1f"/>
 <text x="218" y="310.7" text-anchor="end" font-family="Arial" font-size="12">Information Technology</text>
 <text x="548.1" y="310.7" text-anchor="end" font-family="Arial" font-size="12">-0.250</text>
-<rect x="576.0" y="343.6" width="130.1" height="41.6" fill="#c0392b"/>
+<rect x="576.0" y="343.6" width="130.1" height="41.6" fill="#e07a1f"/>
 <text x="218" y="368.4" text-anchor="end" font-family="Arial" font-size="12">Consumer Staples</text>
 <text x="568.0" y="368.4" text-anchor="end" font-family="Arial" font-size="12">-0.217</text>
-<rect x="593.4" y="401.4" width="112.7" height="41.6" fill="#c0392b"/>
+<rect x="593.4" y="401.4" width="112.7" height="41.6" fill="#e07a1f"/>
 <text x="218" y="426.1" text-anchor="end" font-family="Arial" font-size="12">Industrials</text>
 <text x="585.4" y="426.1" text-anchor="end" font-family="Arial" font-size="12">-0.188</text>
-<rect x="665.5" y="459.1" width="40.6" height="41.6" fill="#c0392b"/>
+<rect x="665.5" y="459.1" width="40.6" height="41.6" fill="#e07a1f"/>
 <text x="218" y="483.9" text-anchor="end" font-family="Arial" font-size="12">Financials</text>
 <text x="657.5" y="483.9" text-anchor="end" font-family="Arial" font-size="12">-0.068</text>
-<rect x="706.2" y="516.8" width="194.8" height="41.6" fill="#2a9d8f"/>
+<rect x="706.2" y="516.8" width="194.8" height="41.6" fill="#1f4e79"/>
 <text x="218" y="541.6" text-anchor="end" font-family="Arial" font-size="12">Real Estate</text>
 <text x="908.9" y="541.6" text-anchor="start" font-family="Arial" font-size="12">0.324</text>
-<rect x="706.2" y="574.5" width="249.0" height="41.6" fill="#2a9d8f"/>
+<rect x="706.2" y="574.5" width="249.0" height="41.6" fill="#1f4e79"/>
 <text x="218" y="599.3" text-anchor="end" font-family="Arial" font-size="12">Consumer Discretionary</text>
 <text x="963.1" y="599.3" text-anchor="start" font-family="Arial" font-size="12">0.415</text>
-<rect x="706.2" y="632.3" width="315.2" height="41.6" fill="#2a9d8f"/>
+<rect x="706.2" y="632.3" width="315.2" height="41.6" fill="#1f4e79"/>
 <text x="218" y="657.1" text-anchor="end" font-family="Arial" font-size="12">Health Care</text>
 <text x="1029.4" y="657.1" text-anchor="start" font-family="Arial" font-size="12">0.525</text>
 <text x="560.0" y="742" text-anchor="middle" font-family="Arial" font-size="14">Correlation of annual margin change with annual price change</text>

@@ -15,41 +15,41 @@
 <line x1="120" y1="245.2" x2="1120" y2="245.2" stroke="#111827" stroke-width="1.4"/>
 <text x="203.3" y="646" text-anchor="middle" font-family="Arial" font-size="12">Energy</text>
 <rect x="163.3" y="245.2" width="21.9" height="156.1" fill="#1f4e79"/>
-<rect x="190.0" y="245.2" width="21.9" height="142.7" fill="#c0392b"/>
+<rect x="190.0" y="245.2" width="21.9" height="142.7" fill="#e07a1f"/>
 <rect x="216.7" y="245.2" width="21.9" height="192.0" fill="#e07a1f"/>
-<rect x="243.3" y="245.2" width="21.9" height="312.6" fill="#2a9d8f"/>
+<rect x="243.3" y="245.2" width="21.9" height="312.6" fill="#1f4e79"/>
 <text x="370.0" y="646" text-anchor="middle" font-family="Arial" font-size="12">Communication Services</text>
 <rect x="330.0" y="245.2" width="21.9" height="48.8" fill="#1f4e79"/>
-<rect x="356.7" y="245.2" width="21.9" height="34.4" fill="#c0392b"/>
+<rect x="356.7" y="245.2" width="21.9" height="34.4" fill="#e07a1f"/>
 <rect x="383.3" y="245.2" width="21.9" height="65.7" fill="#e07a1f"/>
-<rect x="410.0" y="245.2" width="21.9" height="147.2" fill="#2a9d8f"/>
+<rect x="410.0" y="245.2" width="21.9" height="147.2" fill="#1f4e79"/>
 <text x="536.7" y="646" text-anchor="middle" font-family="Arial" font-size="12">Utilities</text>
 <rect x="496.7" y="245.2" width="21.9" height="32.2" fill="#1f4e79"/>
-<rect x="523.3" y="245.2" width="21.9" height="18.1" fill="#c0392b"/>
+<rect x="523.3" y="245.2" width="21.9" height="18.1" fill="#e07a1f"/>
 <rect x="550.0" y="245.2" width="21.9" height="43.6" fill="#e07a1f"/>
-<rect x="576.7" y="245.2" width="21.9" height="6.9" fill="#2a9d8f"/>
+<rect x="576.7" y="245.2" width="21.9" height="6.9" fill="#1f4e79"/>
 <text x="703.3" y="646" text-anchor="middle" font-family="Arial" font-size="12">Consumer Staples</text>
 <rect x="663.3" y="245.2" width="21.9" height="10.5" fill="#1f4e79"/>
-<rect x="690.0" y="245.2" width="21.9" height="24.8" fill="#c0392b"/>
+<rect x="690.0" y="245.2" width="21.9" height="24.8" fill="#e07a1f"/>
 <rect x="716.7" y="245.2" width="21.9" height="25.3" fill="#e07a1f"/>
-<rect x="743.3" y="245.2" width="21.9" height="10.9" fill="#2a9d8f"/>
+<rect x="743.3" y="245.2" width="21.9" height="10.9" fill="#1f4e79"/>
 <text x="870.0" y="646" text-anchor="middle" font-family="Arial" font-size="12">Materials</text>
 <rect x="830.0" y="245.2" width="21.9" height="7.7" fill="#1f4e79"/>
-<rect x="856.7" y="241.9" width="21.9" height="3.3" fill="#c0392b"/>
+<rect x="856.7" y="241.9" width="21.9" height="3.3" fill="#e07a1f"/>
 <rect x="883.3" y="245.2" width="21.9" height="20.9" fill="#e07a1f"/>
-<rect x="910.0" y="245.2" width="21.9" height="23.1" fill="#2a9d8f"/>
+<rect x="910.0" y="245.2" width="21.9" height="23.1" fill="#1f4e79"/>
 <text x="1036.7" y="646" text-anchor="middle" font-family="Arial" font-size="12">Industrials</text>
 <rect x="996.7" y="245.2" width="21.9" height="6.4" fill="#1f4e79"/>
-<rect x="1023.3" y="245.2" width="21.9" height="6.3" fill="#c0392b"/>
+<rect x="1023.3" y="245.2" width="21.9" height="6.3" fill="#e07a1f"/>
 <rect x="1050.0" y="245.2" width="21.9" height="15.9" fill="#e07a1f"/>
-<rect x="1076.7" y="122.3" width="21.9" height="122.9" fill="#2a9d8f"/>
+<rect x="1076.7" y="122.3" width="21.9" height="122.9" fill="#1f4e79"/>
 <rect x="120" y="672" width="14" height="14" fill="#1f4e79"/>
 <text x="142" y="683" font-family="Arial" font-size="12">CrudeOil</text>
-<rect x="280" y="672" width="14" height="14" fill="#c0392b"/>
+<rect x="280" y="672" width="14" height="14" fill="#e07a1f"/>
 <text x="302" y="683" font-family="Arial" font-size="12">NaturalGas</text>
 <rect x="440" y="672" width="14" height="14" fill="#e07a1f"/>
 <text x="462" y="683" font-family="Arial" font-size="12">Diesel</text>
-<rect x="600" y="672" width="14" height="14" fill="#2a9d8f"/>
+<rect x="600" y="672" width="14" height="14" fill="#1f4e79"/>
 <text x="622" y="683" font-family="Arial" font-size="12">Electricity</text>
 <text x="580.0" y="702" text-anchor="middle" font-family="Arial" font-size="14">Sector</text>
 </svg>

@@ -2,37 +2,37 @@
 <rect width="100%" height="100%" fill="white"/>
 <text x="560.0" y="30" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold">Sector Sensitivity to Diesel Price Changes</text>
 <line x1="768.7" y1="55" x2="768.7" y2="690" stroke="#111827" stroke-width="1.5"/>
-<rect x="288.6" y="55.0" width="480.1" height="41.6" fill="#c0392b"/>
+<rect x="288.6" y="55.0" width="480.1" height="41.6" fill="#e07a1f"/>
 <text x="218" y="79.8" text-anchor="end" font-family="Arial" font-size="12">Energy</text>
 <text x="280.6" y="79.8" text-anchor="end" font-family="Arial" font-size="12">-0.663</text>
-<rect x="484.4" y="112.7" width="284.3" height="41.6" fill="#c0392b"/>
+<rect x="484.4" y="112.7" width="284.3" height="41.6" fill="#e07a1f"/>
 <text x="218" y="137.5" text-anchor="end" font-family="Arial" font-size="12">Materials</text>
 <text x="476.4" y="137.5" text-anchor="end" font-family="Arial" font-size="12">-0.393</text>
-<rect x="487.1" y="170.5" width="281.6" height="41.6" fill="#c0392b"/>
+<rect x="487.1" y="170.5" width="281.6" height="41.6" fill="#e07a1f"/>
 <text x="218" y="195.2" text-anchor="end" font-family="Arial" font-size="12">Utilities</text>
 <text x="479.1" y="195.2" text-anchor="end" font-family="Arial" font-size="12">-0.389</text>
-<rect x="539.1" y="228.2" width="229.6" height="41.6" fill="#c0392b"/>
+<rect x="539.1" y="228.2" width="229.6" height="41.6" fill="#e07a1f"/>
 <text x="218" y="253.0" text-anchor="end" font-family="Arial" font-size="12">Communication Services</text>
 <text x="531.1" y="253.0" text-anchor="end" font-family="Arial" font-size="12">-0.317</text>
-<rect x="555.5" y="285.9" width="213.2" height="41.6" fill="#c0392b"/>
+<rect x="555.5" y="285.9" width="213.2" height="41.6" fill="#e07a1f"/>
 <text x="218" y="310.7" text-anchor="end" font-family="Arial" font-size="12">Consumer Staples</text>
 <text x="547.5" y="310.7" text-anchor="end" font-family="Arial" font-size="12">-0.294</text>
-<rect x="567.1" y="343.6" width="201.6" height="41.6" fill="#c0392b"/>
+<rect x="567.1" y="343.6" width="201.6" height="41.6" fill="#e07a1f"/>
 <text x="218" y="368.4" text-anchor="end" font-family="Arial" font-size="12">Industrials</text>
 <text x="559.1" y="368.4" text-anchor="end" font-family="Arial" font-size="12">-0.278</text>
-<rect x="648.4" y="401.4" width="120.3" height="41.6" fill="#c0392b"/>
+<rect x="648.4" y="401.4" width="120.3" height="41.6" fill="#e07a1f"/>
 <text x="218" y="426.1" text-anchor="end" font-family="Arial" font-size="12">Information Technology</text>
 <text x="640.4" y="426.1" text-anchor="end" font-family="Arial" font-size="12">-0.166</text>
-<rect x="718.1" y="459.1" width="50.6" height="41.6" fill="#c0392b"/>
+<rect x="718.1" y="459.1" width="50.6" height="41.6" fill="#e07a1f"/>
 <text x="218" y="483.9" text-anchor="end" font-family="Arial" font-size="12">Financials</text>
 <text x="710.1" y="483.9" text-anchor="end" font-family="Arial" font-size="12">-0.070</text>
-<rect x="768.7" y="516.8" width="195.2" height="41.6" fill="#2a9d8f"/>
+<rect x="768.7" y="516.8" width="195.2" height="41.6" fill="#1f4e79"/>
 <text x="218" y="541.6" text-anchor="end" font-family="Arial" font-size="12">Consumer Discretionary</text>
 <text x="971.9" y="541.6" text-anchor="start" font-family="Arial" font-size="12">0.270</text>
-<rect x="768.7" y="574.5" width="205.2" height="41.6" fill="#2a9d8f"/>
+<rect x="768.7" y="574.5" width="205.2" height="41.6" fill="#1f4e79"/>
 <text x="218" y="599.3" text-anchor="end" font-family="Arial" font-size="12">Real Estate</text>
 <text x="982.0" y="599.3" text-anchor="start" font-family="Arial" font-size="12">0.283</text>
-<rect x="768.7" y="632.3" width="252.7" height="41.6" fill="#2a9d8f"/>
+<rect x="768.7" y="632.3" width="252.7" height="41.6" fill="#1f4e79"/>
 <text x="218" y="657.1" text-anchor="end" font-family="Arial" font-size="12">Health Care</text>
 <text x="1029.4" y="657.1" text-anchor="start" font-family="Arial" font-size="12">0.349</text>
 <text x="560.0" y="742" text-anchor="middle" font-family="Arial" font-size="14">Correlation of annual margin change with annual price change</text>
