@@ -2,7 +2,16 @@
 
 This plan is deliberately narrow. The goal is not to build the full cross-country research project. The goal is to produce a fast, working UK-only prototype with real data and one usable model.
 
-## 1. Session Goal
+## 0. Goal
+
+Build the fastest possible UK-only sector-year prototype that tests whether more energy-exposed sectors had worse insolvency outcomes when energy prices rose, using real data and one interpretable baseline model.
+
+Done means one of two things:
+
+* a clean merged UK sector-year panel plus one baseline regression
+* a short blocker note showing exactly which dataset or mapping failed
+
+## 1. Success Criteria
 
 We are trying to finish one of these two outcomes:
 
@@ -17,9 +26,9 @@ Use only this scope:
 
 * **geography:** United Kingdom only
 * **unit of analysis:** `sector x year`
-* **outcome:** sector insolvency rate or sector insolvency count
+* **outcome:** sector insolvency count first; sector insolvency rate only if the denominator is easy to obtain
 * **treatment:** UK energy price shock by year
-* **exposure:** lagged sector energy intensity
+* **exposure:** lagged sector energy intensity, or a simpler sector energy-exposure proxy if the output merge is the blocker
 * **model:** one baseline fixed-effects style panel regression
 
 Do not expand to multiple countries, event studies, or robustness checks in the first pass.
@@ -73,9 +82,11 @@ Need:
 * sector
 * gross output or GVA
 
-This is required to build:
+Preferred MVP use:
 
 * `energy_intensity = energy_use / output`
+
+This is helpful, but it is not a hard blocker for the first pass if a simpler exposure proxy gets us to a working model faster.
 
 ### D. Energy shock
 
@@ -93,14 +104,14 @@ Need:
 
 ## 4. Main Question
 
-Do more energy-intensive UK sectors show worse insolvency outcomes when energy prices rise?
+Do more energy-exposed UK sectors show worse insolvency outcomes when energy prices rise?
 
 ## 5. Baseline Model
 
 Use one simple specification:
 
 \[
-Y_{s,t} = \beta_1 Shock_t + \beta_2 EI_{s,t-1} + \beta_3(Shock_t \times EI_{s,t-1}) + \alpha_s + \tau_t + \varepsilon_{s,t}
+Y_{s,t} = \beta_1 EI_{s,t-1} + \beta_2(Shock_t \times EI_{s,t-1}) + \alpha_s + \tau_t + \varepsilon_{s,t}
 \]
 
 Where:
@@ -111,73 +122,71 @@ Where:
 * `alpha_s` = sector fixed effects
 * `tau_t` = year fixed effects
 
-The only coefficient we really care about in the MVP is the interaction term.
+Notes:
+
+* with year fixed effects, the standalone `Shock_t` term is absorbed
+* the only coefficient we really care about in the MVP is the interaction term
+* if `energy_intensity` is not feasible in time, replace it with the simplest defensible sector energy-exposure proxy and keep moving
 
 ## 6. Required Inputs
 
-We only proceed if all of these exist:
+### Tier 1 required
+
+We proceed with the MVP if these exist:
 
 * UK sector insolvency data
 * UK sector energy-use data
-* UK sector output or GVA data
 * one annual energy shock series
 
-If one of these is missing, we stop and document the blocker instead of forcing the model.
+### Tier 2 preferred
+
+These improve the MVP but should not block it:
+
+* UK sector output or GVA data
+* active-firms denominator for an insolvency rate
+
+If Tier 1 fails, we stop and document the blocker instead of forcing the model.
 
 ## 7. Two-Hour Build Plan
 
-### Phase 1. Data Gate
+### Phase 1. Audit + Mapping
 
-Time budget: `30 to 45 minutes`
+Time budget: `45 to 60 minutes`
 
 Tasks:
 
 * download or confirm the UK insolvency dataset
 * download or confirm the UK sector energy dataset
-* download or confirm the UK output or GVA dataset
 * download or confirm one annual energy-price series
+* download or confirm the UK output or GVA dataset only if it looks easy
 * inspect each file for sector labels and year coverage
+* collapse everything to one coarse common sector taxonomy immediately
+* drop sectors that do not map cleanly
 * identify the common overlap window
 
 Outputs:
 
-* `docs/data_readiness.md`
+* `docs/mvp_log.md`
 * `outputs/tables/source_coverage.csv`
+* `data/processed/sector_crosswalk.csv`
 
 Decision rule:
 
-* if sector mappings are impossible or a required dataset is missing, stop and write the blocker
-
-### Phase 2. Sector Mapping
-
-Time budget: `25 to 35 minutes`
-
-Tasks:
-
-* standardize years
-* standardize sector names
-* collapse all sources to one common sector taxonomy
-* drop sectors that do not map cleanly
-
-Rule:
-
 * small clean sample is better than a wide messy sample
+* if the sector mapping is impossible or Tier 1 data is missing, stop and write the blocker
 
-Outputs:
+### Phase 2. Build Panel
 
-* `data/processed/sector_crosswalk.csv`
-* `docs/sector_mapping.md`
-
-### Phase 3. Build Panel
-
-Time budget: `20 to 30 minutes`
+Time budget: `30 to 40 minutes`
 
 Tasks:
 
-* merge insolvencies, energy use, output, and shock data
-* compute `energy_intensity`
-* compute `lagged_energy_intensity`
+* merge insolvencies, energy use, and shock data
+* merge output or GVA only if it is clean and fast
 * define the main insolvency outcome
+* compute `energy_intensity` if output exists
+* otherwise compute the simplest defensible sector energy-exposure proxy
+* compute `lagged_energy_intensity` or the lagged proxy
 * save the merged panel
 
 Required columns:
@@ -186,29 +195,32 @@ Required columns:
 * `year`
 * `sector_insolvencies`
 * `energy_use`
+* `energy_price_shock`
+* `lagged_energy_intensity` or another lagged exposure measure
+
+Preferred columns:
+
 * `output`
 * `energy_intensity`
-* `lagged_energy_intensity`
-* `energy_price_shock`
 
 Output:
 
 * `data/processed/uk_sector_year_panel.parquet`
 
-### Phase 4. Run One Model
+### Phase 3. Run One Model
 
-Time budget: `15 to 20 minutes`
+Time budget: `20 to 30 minutes`
 
 Tasks:
 
 * run one baseline regression
 * export one regression table
-* export one simple plot of the interaction estimate
+* export one simple descriptive figure only if it is quick
 
 Outputs:
 
 * `outputs/tables/baseline_fe.csv`
-* `outputs/figures/interaction_coef.png`
+* `outputs/figures/interaction_coef.png` if time permits
 
 ## 8. What Is Out of Scope
 
@@ -238,9 +250,8 @@ project/
 │   ├── tables/
 │   └── figures/
 └── scripts/
-    ├── 01_audit_data.py
-    ├── 02_build_panel.py
-    └── 03_run_baseline.py
+    ├── 01_audit_and_map.py
+    └── 02_build_panel_and_run_baseline.py
 ```
 
 ## 10. Practical Rule
@@ -248,9 +259,9 @@ project/
 The order is:
 
 1. get UK data
-2. verify sectors and years line up
+2. force a coarse sector mapping that actually works
 3. build the smallest clean panel possible
 4. run one model
 5. stop
 
-That is the correct MVP.
+That is the correct MVP. A small clean answer beats a broad messy one.
